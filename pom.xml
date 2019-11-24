@@ -9,6 +9,7 @@
   	<dependency>
   		<groupId>junit</groupId>
   		<artifactId>junit</artifactId>
+<<<<<<< HEAD
   		<version>4.11</version>
   	</dependency>
   	 <dependency>
@@ -16,6 +17,10 @@
             <artifactId>guava</artifactId>
             <version>16.0.1</version>
         </dependency>
+=======
+  		<version>4.12</version>
+  	</dependency>
+>>>>>>> branch 'master' of https://github.com/mohamedelghaouth/Test_CloudInfrastructure
   </dependencies>
   
   <build>
